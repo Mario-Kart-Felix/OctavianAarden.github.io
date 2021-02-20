@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Life gamification"
+date:   2021-02-20 20:11:00 +0100
+categories: blog
+permalink: "/:title"
+---
+
+![Gaming on mobile](assets/21_03_gaming-on-mobile.jpg)
+
+I was never a hardcore gamer. I have played a little chess competitively as a teen and I really enjoyed playing WW2 shooters like Call of Duty 2, and football games like Fifa and Pro Evolution Soccer with friends. In my twenties I also played Football Manager, but I never got into the over night binge gaming negative stereotype that the press likes to throw around.
+
+As my job has gotten increasingly stressful since Coronavirus started, and the divide between work life and personal time has all but disappeared, I found that I have trouble thinking about something that is not related to my job if I do not find a way to disconnect in a more blunt fashion after my work hours. With gyms still being closed in the Netherlands, I purchased an Nvidia Shield and a game controller to get into gaming again.
+
+I have to tell you that it works. Half an hour of gaming after closing my work laptop has the ability to really disconnect me from the previous 8-10 hours. What I also see in gaming after almost a decade of not playing has made me think the concept of gamification. As humans we are incredibly competitive, as a side effect of evolution. We want to win, we want to prove that we are better than others. Champions are popular and being a champion in your field might, on a primal level, increase your chances of procreating, if I am allowed to bring the discussion to an animalistic instinct level.
+
+What games have managed to capture in an incredibly efficient way, is our need to become better, our need to progress and our need to best others. Games are addicting for a reason, it let's you see the progress you make immediately. We all know that going to the gym is good for us, but as the results cannot be seen in a short feedback loop, it is not as addictive to improve in that way as it is to go from level 4 to level 6 in Rocket League. This short essay has a long introduction but the main point here is the ability of gaming and game related activities to tap into a primal need as human beings. What we need to do now, as a society, is to translate those short feedback loops into real life skills. Games are fun, but gamifying medical school (6 years) or gym results (>1 year) is something that might push us to a whole new level.
+
+#### My current gaming setup
+Hardware
+1. Full HD Optoma projector - https://www.optomaeurope.com/product-details/hd144x
+2. NVIDIA Shield TV Pro - https://www.nvidia.com/en-us/shield/shield-tv-pro/
+3. XBOX controller - https://www.microsoft.com/en-us/p/xbox-wireless-controller/8xn59crbsqgz?cid=msft_web_collection
+4. (Extra 4TB HDD for all my movies) - https://www.seagate.com/nl/nl/consumer/backup/expansion-portable/
+
+Games
+- Solar 2 - https://store.steampowered.com/app/97000/Solar_2/
+- Rocket League - https://www.rocketleague.com/
+- The Long Dark - https://www.thelongdark.com/
+- Euro Truck Simulator 2 - https://eurotrucksimulator2.com/
+- Badland - http://badlandgame.com/
+
+PS I have come to despise games with huge initial investment in learning to play them which might contradict my initial point a bit, or maybe reinforce the short feedback argument that I was making...!? I tried Assassin's Creed today and after 45 minutes I was still seeing the intro of the story, and going through a tutorial. I might not be the audience for those kinds of games as my goal is to just disconnect for 30 minutes.

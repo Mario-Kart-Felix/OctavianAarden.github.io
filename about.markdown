@@ -6,8 +6,9 @@ permalink: /about/
 
 ## LavaLens
 
-The immediate objective of LavaLens is to provide an outlet for it’s creator, Octavian Aarden. Being a European movie fan and also enjoying writing, creating a movie critique website seemed like a natural progression.
+The immediate objective of LavaLens is to provide an outlet for it’s creator, Octavian Aarden. Being a European movie fan and also enjoying writing, reading and studying the influence the written word has on society, I started this page as an outlet for myself. The name of the website is a wordplay on lava and the movie lens that captures the actors and out imagination.
 
+![Octavian Aarden caricature](/assets/00_OctavianAarden.png)
 
 ## Octavian Aarden
 
