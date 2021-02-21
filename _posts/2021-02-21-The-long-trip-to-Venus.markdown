@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The long trip to Venus - part I"
+date:   2021-02-21 20:11:00 +0100
+categories: [short story]
+permalink: "/:title"
+---
+
+As a child I always imagined that a trip to Venus would be blinding. Getting closer and closer to the Sun. The thought of having blinds did not occur to me, and maybe it was better that it did not. The real difficulty of such a long trip is the darkness of being alone for such a long time. Four months in a tiny cage is not what you would call a pleasant vacation.
+
+The United Space Exploration Organization has banned two people trips. Only the first dozen were made in pairs of scientists. People would get violent all too often. Something about being with another person for such a long time makes you want to kill them. Every word gets on your nerves. Every closed mouth burp makes you lose your mind. That was over 50 years ago, and since then every trip has been made alone or on the rare occasions in groups of five or more.
+
+I am am not the happiest flier in the world. I have degrees in mechanical engineering and I know that failures happen. There is absolutely nothing out there that can save you in that case. Yes, they design for low failure probabilities but that is never close enough to zero to keep me relaxed. As the systems are one hundred percent self driven there is not a lot you can do. The enclosure is also small, sending a big ship on a long trip gets to be expensive. You have enough room for some exercise and basic living. Your limited cubic meters of space serve as bedroom, bathroom, dining hall and gym.
+
+Four months of almost zero communication is not the best for our mental health. Most people catch up on sleep for the first half week. After that we are strongly encouraged to continue with our daily exercises and to keep our minds busy. There is not much room for activities as I previously mentioned, so doing a painting workshop is out of the question. You can do whatever you want with an offline computer. You have all of the knowledge you would want at the tip off your fingertips. Being born in an immensely connected world like Earth makes such a situation difficult. Let me bring up the statistic with the favorite past time activities while on the way to Venus. It seems that TV shows make up a big part of it. Porn, games and reading up on the history and culture of Venus are also enjoyed. I was fed up with the quality of TV shows even while still on Earth. Gaming is not my thing really and I already know the place where I am going. It seems that on top of porn and masturbating, which is also encouraged by the medical staff, I need to find a new pastime activity. Writing might be it. Always wanted to be a writer, I think it is sexy. If I could also smoke I might even enjoy this trip.
+
+With my new activity now picked, I now what will happen next. Every time I try to pick up something new and fun I get bored pretty quickly with it. As soon as I move from the casual writing for fun phase, to the writing as an exercise, I will start to despise it. This should not be a problem in the end, because I only have a couple of alternatives. TV shows is even less appealing and reading is a reasonable one. If I end up on reading every time I get bored with writing then I am in for a pretty fulfilling 4 months ahead. Stay tuned for a lot of stream of consciousness writing in my upcoming texts. I might have to give you more background about this trip in part II.
