@@ -18,16 +18,16 @@ What games have managed to capture in an incredibly efficient way, is our need t
 
 #### My current gaming setup
 Hardware
-1. Full HD Optoma projector - https://www.optomaeurope.com/product-details/hd144x
-2. NVIDIA Shield TV Pro - https://www.nvidia.com/en-us/shield/shield-tv-pro/
-3. XBOX controller - https://www.microsoft.com/en-us/p/xbox-wireless-controller/8xn59crbsqgz?cid=msft_web_collection
-4. (Extra 4TB HDD for all my movies) - https://www.seagate.com/nl/nl/consumer/backup/expansion-portable/
+1. Full HD Optoma projector - [https://www.optomaeurope.com/product-details/hd144x](https://www.optomaeurope.com/product-details/hd144x)
+2. NVIDIA Shield TV Pro - [https://www.nvidia.com/en-us/shield/shield-tv-pro/](https://www.nvidia.com/en-us/shield/shield-tv-pro/)
+3. XBOX controller - [https://www.microsoft.com/en-us/p/xbox-wireless-controller/8xn59crbsqgz?cid=msft_web_collection](https://www.microsoft.com/en-us/p/xbox-wireless-controller/8xn59crbsqgz?cid=msft_web_collection)
+4. (Extra 4TB HDD for all my movies) - [https://www.seagate.com/nl/nl/consumer/backup/expansion-portable/](https://www.seagate.com/nl/nl/consumer/backup/expansion-portable/)
 
 Games
-- Solar 2 - https://store.steampowered.com/app/97000/Solar_2/
-- Rocket League - https://www.rocketleague.com/
-- The Long Dark - https://www.thelongdark.com/
-- Euro Truck Simulator 2 - https://eurotrucksimulator2.com/
-- Badland - http://badlandgame.com/
+- Solar 2 - [https://store.steampowered.com/app/97000/Solar_2/](https://store.steampowered.com/app/97000/Solar_2/)
+- Rocket League - [https://www.rocketleague.com/](https://www.rocketleague.com/)
+- The Long Dark - [https://www.thelongdark.com/](https://www.thelongdark.com/)
+- Euro Truck Simulator 2 - [https://eurotrucksimulator2.com/](https://eurotrucksimulator2.com/)
+- Badland - [http://badlandgame.com/](http://badlandgame.com/)
 
 PS I have come to despise games with huge initial investment in learning to play them which might contradict my initial point a bit, or maybe reinforce the short feedback argument that I was making...!? I tried Assassin's Creed today and after 45 minutes I was still seeing the intro of the story, and going through a tutorial. I might not be the audience for those kinds of games as my goal is to just disconnect for 30 minutes.

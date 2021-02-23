@@ -2,7 +2,7 @@
 layout: post
 title:  "Le Week-end (2013) – 3.5/5"
 date:   2020-09-01 10:19:23 +0100
-categories: drama
+categories: drama comedy
 permalink: "/:title"
 ---
 
