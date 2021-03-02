@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy Doomsday"
-date:   2021-02-28 10:11:00 +0100
+date:   2021-03-02 10:11:00 +0100
 categories: [short story]
 permalink: "/:title"
 ---
