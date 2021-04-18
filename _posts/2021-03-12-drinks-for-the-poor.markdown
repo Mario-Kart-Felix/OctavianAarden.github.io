@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Drinks for the poor"
+date:   2021-03-12 10:11:00 +0100
+categories: [short story]
+permalink: "/:title"
+---
+
+![Drunk on the street](21_07-drinks-for-the-poor.jpg)
+
+I come from a poor country. In poor European countries drinking is seen as an escape from the daily struggles of life. It is also seen as an integral part of every of every major event in life. You drink when your child is born. You drink at weddings and you drink at funerals. You drink if you favorite team wins the match but you also drink if you lose your job.
+
+This situation always appeared to me as typical for a person that hates life. It is tough, you don't have enough money to escape your situation so alcohol becomes an escape. It never solves any problems but it gives you a few hours of escape from the abyss that is a poor life. I always saw alcoholism as a consequence of poverty and lack of education.
+
+What surprised me is the presence of alcoholism in rich countries. I live in the Netherlands now, one of the richest countries in the world. There is a strong social safety net here. Yes you pay high taxes but if you lose your job the states takes care of you. I could have never imagined that the drinking to drown my sorrows could exists in such a country. Here you can escape poverty. Why drink then. I am not talking about the functional alcoholic that somehow got into a bad divorce and is struggling with alcoholism now. I am talking about trailer living, teeth missing alcoholic as a way of life person.
+
+I am also reading trough some of Charles Bukoswki's [Notes of a Dirty Old Man](https://en.wikipedia.org/wiki/Notes_of_a_Dirty_Old_Man). Yeah, that kind of drunk.
+
+That kind of alcoholism is a way of life. It is an escapism form of some kind. The way I escape from my reality by watching shitty zombie TV shows, some other person drinks. Is the regular alcoholism treatment even an option for them? I used to be a heavy drinker. I was not the expensive wine or whiskey type of guy. I was the buy the cheapest beer at Lidl drinker. Spending every free hour drinking. Similar in that regards to many depressed drinkers, that seem to always end in suicide.
