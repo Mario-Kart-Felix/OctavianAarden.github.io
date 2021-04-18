@@ -6,7 +6,7 @@ categories: [short story]
 permalink: "/:title"
 ---
 
-![Drunk on the street](21_07-drinks-for-the-poor.jpg)
+![Drunk on the street](assets/21_07-drinks-for-the-poor.jpg)
 
 I come from a poor country. In poor European countries drinking is seen as an escape from the daily struggles of life. It is also seen as an integral part of every of every major event in life. You drink when your child is born. You drink at weddings and you drink at funerals. You drink if you favorite team wins the match but you also drink if you lose your job.
 
